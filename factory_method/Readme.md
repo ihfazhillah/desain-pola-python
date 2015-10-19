@@ -8,3 +8,8 @@ Di Factory Method, kita mengeksekusi sebuah fungsi (method), memasukkan paramete
 memberikan informasi tentang ***apa*** yang kita inginkan.
 Kita, tidak perlu tahu detail ***bagaimana*** objek ini digunakan, dan ***darimana*** objek ini
 datang.
+
+[Mastering python design pattern](https://www.packtpub.com/application-development/mastering-python-design-patterns)
+
+####Contoh
+1. [Cup](https://github.com/ihfazhillah/desain-pola-python/blob/master/factory_method/cup-factory-method.py)
