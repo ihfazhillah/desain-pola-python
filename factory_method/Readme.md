@@ -13,3 +13,8 @@ datang.
 
 ####Contoh
 1. [Cup](https://github.com/ihfazhillah/desain-pola-python/blob/master/factory_method/cup-factory-method.py)
+2. [connector](https://github.com/ihfazhillah/desain-pola-python/blob/master/factory_method/connector_01.py) , asal contoh dari mastering design pattern python
+3. [tukang](https://github.com/ihfazhillah/desain-pola-python/blob/master/factory_method/tukang_01.py), ide sendiri, untuk praktek
+
+
+Mohon koreksinya.. atau anda bisa memperkaya contoh contoh? Silahkan.. terimaksaih.
